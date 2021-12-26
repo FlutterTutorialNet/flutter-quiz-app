@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Science",
+    "imagePath": "assets/icons/category/science.png"
+  },
+  {
+    "id": 2,
+    "name": "Music",
+    "imagePath": "assets/icons/category/music.png"
+  },
+  {
+    "id": 3,
+    "name": "Sports",
+    "imagePath": "assets/icons/category/sports.png"
+  },
+  {
+    "id": 4,
+    "name": "Nature",
+    "imagePath": "assets/icons/category/nature.png"
+  },
+  {
+    "id": 5,
+    "name": "English",
+    "imagePath": "assets/icons/category/language.png"
+  },
+  {
+    "id": 6,
+    "name": "Mathematics",
+    "imagePath": "assets/icons/category/math.png"
+  },
+  {
+    "id": 7,
+    "name": "Science",
+    "imagePath": "assets/icons/category/science.png"
+  },
+  {
+    "id": 8,
+    "name": "Music",
+    "imagePath": "assets/icons/category/music.png"
+  }
+]

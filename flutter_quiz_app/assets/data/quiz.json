@@ -1,0 +1,400 @@
+[
+  {
+    "id": 1,
+    "title": "Science Quiz 01",
+    "description": "This is a science quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Science question 01",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 02",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 03",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 04",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 05",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Science Quiz 02",
+    "description": "This is a science quiz 2 description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Science question 01",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 02",
+        "duration": 15,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 03",
+        "duration": 20,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 04",
+        "duration": 25,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 05",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 06",
+        "duration": 35,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Music Quiz 01",
+    "description": "This is a science quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Music question 01",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 02",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 03",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 04",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 05",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
